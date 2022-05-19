@@ -19,4 +19,4 @@ Text documents are analyzed to be converted to the category of the articles. The
 - Selangor Human Resource Development Center (SHRDC)
 
 # Dataset Source
-https://www.kaggle.com/datasets/abisheksudarshan/customersegmentation
+https://www.kaggle.com/datasets/abisheksudarshan/customersegmentation](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv
